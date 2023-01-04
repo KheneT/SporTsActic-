@@ -18,9 +18,9 @@ public class Conexion {
     
     private Conexion (){
     
-        String url= "......";
-        String user = "....";
-        String password = ".......";
+        String url= "url";
+        String user = "user";
+        String password = "password";
         String driver = "com.mysql.cj.jdbc.Driver";
     
         
